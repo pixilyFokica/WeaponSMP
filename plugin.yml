@@ -1,0 +1,4 @@
+name: WeaponSMP
+version: 1.0
+main: com.pixilyfokica.weaponsmp.LifestealSword
+api-version: 1.20
